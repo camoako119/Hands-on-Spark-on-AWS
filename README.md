@@ -57,5 +57,5 @@ Counts how many reviews have each rating. Rating `0` represents records whose so
 
 ### 4. Processed S3 output folders
 
-![Processed folders](screenshots/athena_results)
+![Processed folders](screenshots/athena_results.png)
 
