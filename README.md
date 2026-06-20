@@ -1,9 +1,5 @@
 # Serverless Spark ETL Pipeline on AWS
 
-**Student:** YOUR NAME  
-**Course:** ITCS 6190 – Cloud Computing for Data Analysis  
-**Assignment:** Hands-on Spark on AWS
-
 ## Project summary
 
 The Glue job:
